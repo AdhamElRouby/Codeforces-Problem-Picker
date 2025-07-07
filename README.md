@@ -7,13 +7,13 @@ A Chrome extension that picks a random problem from the current [Codeforces](htt
 Clone the project
 
 ```bash
-  git clone https://github.com/your-username/t6-chrome-extension.git
+  git clone https://github.com/AdhamElRouby/Codeforces-Problem-Picker.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd .\t6-chrome-extension
+  cd .\Codeforces-Problem-Picker
 ```
 
 Open with VSCode
