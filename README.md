@@ -46,3 +46,12 @@ Load the extension in Chrome
 1. Visit the [Codeforces Problemset](https://codeforces.com/problemset) page and apply any filters or tags you like.
 2. A `Pick One` button will automatically appear in the top-right corner above the problem list.
 3. Click the button to open a random problem in a new tab — and enjoy solving!
+
+## Contributing
+
+I welcome contributions to this project! Feel free to submit pull requests and suggest improvements.
+If you have any questions or need assistance, don't hesitate to contact me at [adhamelrouby@aucegypt.edu](mailto:adhamelrouby@aucegypt.edu).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
