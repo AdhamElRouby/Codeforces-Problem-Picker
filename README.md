@@ -2,6 +2,10 @@
 
 A Chrome extension that picks a random problem from the current [Codeforces](https://codeforces.com) problemset with one click.
 
+<div align="center">
+  <img src="./assets/demo.gif" alt="App Demo">
+</div>
+
 ## Installation
 
 Clone the project
