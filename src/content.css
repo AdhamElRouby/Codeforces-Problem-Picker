@@ -1,0 +1,49 @@
+#extension-random-button-root {
+    position: absolute;
+    top: -27px;
+    right: 22px;
+}
+
+.extension-random-button {
+    z-index: 1;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    border-radius: 6px;
+    padding: 3px 6px;
+    transition: all 0.25s ease;
+    position: relative;
+}
+
+.extension-random-button:hover {
+    background-color: rgba(214, 214, 214, 0.89);
+}
+
+.extension-random-button::before {
+    content: "Pick One";
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(10px);
+    background-color: var(--border-color);
+    color: #000;
+    padding: 4px 7px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'PT Sans Narrow', sans-serif;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.4s ease, transform 0.2s ease, visibility 0.2s ease;
+    margin-bottom: 6px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+}
+
+.extension-random-button:hover::before {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
