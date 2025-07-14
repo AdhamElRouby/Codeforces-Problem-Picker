@@ -49,7 +49,19 @@ Load the extension in Chrome
 
 1. Visit the [Codeforces Problemset](https://codeforces.com/problemset) page and apply any filters or tags you like.
 2. A `Pick One` button will automatically appear in the top-right corner above the problem list.
-3. Click the button to open a random problem in a new tab — and enjoy solving!
+3. Click the button to open a random problem in a new tab, and enjoy solving!
+
+## Privacy Policy
+
+This extension operates only on the `codeforces.com/problemset` webpage. It requires host permission solely to automatically inject a "Pick One" button and interact with the problemset table on that page.
+
+**The extension does not collect, store, or transmit any personal or sensitive user data.** It also does not monitor user activity, track browsing history, or access any content beyond the specified Codeforces page.
+
+The developer does not sell or transfer user data to third parties, nor is any data used for purposes unrelated to the extension’s single function.
+
+This extension fully complies with the [Chrome Developer Program Policies](https://developer.chrome.com/docs/webstore/program-policies).
+
+
 
 ## Contributing
 
