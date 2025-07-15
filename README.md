@@ -1,4 +1,8 @@
 # Codeforces Problem Picker Extension
+<p align="left">
+    <img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version 1.0"/>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
+</p>
 
 A Chrome extension that picks a random problem from the current [Codeforces](https://codeforces.com) problemset with one click.
 
