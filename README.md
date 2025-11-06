@@ -12,7 +12,7 @@ A Chrome extension that picks a random problem from the current [Codeforces](htt
 
 ## Installation
 
-Install it directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/jdlldnoeofieffnebbjmifeipmeiokmh?utm_source=item-share-cb), or follow these steps for manual installation:
+Install it directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/jdlldnoeofieffnebbjmifeipmeiokmh?utm_source=item-share-cb) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/codeforces-problem-picker/), or follow these steps for manual installation:
 
 Clone the project
 
