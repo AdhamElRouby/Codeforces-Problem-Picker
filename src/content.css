@@ -4,6 +4,16 @@
     right: 22px;
 }
 
+/* Leetcode button style */
+.el-form-item__content #extension-random-button-root {
+    position: relative;
+    top: 0;
+    right: 0;
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
 .extension-random-button {
     z-index: 1;
     cursor: pointer;

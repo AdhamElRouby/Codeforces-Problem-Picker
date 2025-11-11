@@ -18,7 +18,8 @@
         "content.css"
       ],
       "matches": [
-        "https://codeforces.com/problemset*"
+        "https://codeforces.com/problemset*",
+        "https://zerotrac.github.io/leetcode_problem_rating/*"
       ]
     }
   ]
