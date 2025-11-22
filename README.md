@@ -1,6 +1,6 @@
 # Codeforces Problem Picker Extension
 <p align="left">
-    <img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version 1.0"/>
+    <img src="https://img.shields.io/badge/version-1.1-blue.svg" alt="Version 1.1"/>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
 </p>
 
