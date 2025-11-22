@@ -1,7 +1,8 @@
 import { createRoot } from 'react-dom/client';
 import App from './App';
+import { checkValidPage } from './utils/checkValidPage';
 
-if (window.location.href.startsWith('https://codeforces.com/problemset')) {
+if (checkValidPage()) {
   try {
     const datatable = document.querySelector('.datatable');
     if (!datatable) throw new Error('Datatable not found on the page.');
