@@ -51,6 +51,12 @@ Load the extension in Chrome
 3. Click "Load unpacked"
 4. Select the `dist` folder from this project
 
+Load the extension in Firefox
+
+1. Go to `about:debugging#/runtime/this-firefox`
+2. Click "Load Temporary Add-on"
+3. Navigate to the `dist` folder and select the `manifest.json` file (or any other file)
+
 ## Usage
 
 1. Visit the [Codeforces Problemset](https://codeforces.com/problemset) page and apply any filters or tags you like.
